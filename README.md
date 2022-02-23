@@ -1,3 +1,3 @@
 # LyricsScraper
 
-Small program that runs in the terminal. Webscraped the Songlyrics website using requests and BeautifulSoup library.
+Small program that runs in the terminal. Webscraped the Songlyrics website using requests and BeautifulSoup libraries.
